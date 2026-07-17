@@ -5,6 +5,9 @@ connection analysis, and stream reconstruction using Wireshark. This repository
 contains three annotated packet captures and a breakdown of what each one shows
 and why it matters for network and security work.
 
+## WATCH THE LAB WALKTHROUGH HERE!
+https://www.loom.com/share/cbd171d0f97c4f779d71715dcc90c95d
+
 **Tools:** Wireshark (free, open source) · tshark · nslookup
 **Skill areas:** Network analysis · DNS troubleshooting · TCP/IP · Traffic inspection
 **Certification alignment:** CompTIA Network+ · Security+ · CySA+
